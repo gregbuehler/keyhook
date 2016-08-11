@@ -1,4 +1,4 @@
-windows-ll-keylogger
+keyhook
 ====================
 
-A low level keyboard logger with a status tray icon. Template for building utilities that hook on keyboard inputs.
+A low level keyboard hook with a status tray icon. Template for building utilities that hook on keyboard inputs.
